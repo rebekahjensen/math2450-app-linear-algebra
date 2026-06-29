@@ -21,4 +21,6 @@ Assignments:
 - Week 16
 - Week 17
 
+Each week consisted of homework assignments, as well as in-class and textbook examples.
+
 Archived coursework from Southern Utah University.
